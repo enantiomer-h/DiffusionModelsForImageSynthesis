@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the associated article, CellDiffusion, and this release."
+title: "Conditional 3D DDPM Fluorescence-Image Synthesis"
+type: software
+version: 1.0.0
+license: Apache-2.0
+repository-code: "https://github.com/enantiomer-h/DiffusionModelsForImageSynthesis"
+authors:
+  - family-names: Huang
+    given-names: Yuxiang
+  - family-names: Iino
+    given-names: Yuichi
+  - family-names: Toyoshima
+    given-names: Yu
+preferred-citation:
+  type: article
+  title: "Synthesis of 3D Fluorescence Images Using VAE-Diffusion Models and Their Application for 3D-UNETR Neuronal Cell Identification"
+  authors:
+    - family-names: Huang
+      given-names: Yuxiang
+    - family-names: Iino
+      given-names: Yuichi
+    - family-names: Toyoshima
+      given-names: Yu
